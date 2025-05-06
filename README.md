@@ -29,10 +29,3 @@ Proyek ini merupakan hasil modifikasi dari skrip TTS dasar menjadi aplikasi inte
 - 📚 Penjelasan kode dan dokumentasi ilmiah lengkap
 
 ---
-
-## 🛠️ Instalasi
-
-### 1. Clone repository
-```bash
-git clone https://github.com/username/nama-repo-anda.git
-cd nama-repo-anda
